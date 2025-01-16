@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Ronnie.
-- 👀 I’m interested looking inside the hood of Computers
-- 🌱 I’m currently learning the Basics of Computing
-- 💞️ I’m looking to collaborate someday
-- 📫 How to reach me by instagram @thechamprk
+- 👋 Hi, I’m Rounak but you can call me Ronnie.
+- 👀 I’m interested to be a good Cyber Security Analyst.
+- 🌱 I’m currently learning the Basics of Programming and Hacking.
+- 💞️ I’m looking to collaborate someday.
+- 📫 How to reach me by instagram @thechamprk or mail me at projects.rounak@gmail.com
 - 😄 Pronouns: CHAMP
-- ⚡ Fun fact: I AM ALWAYZ LAZY...
+- ⚡ Fun fact: I'M KIND OF LAZY... :)
 
 <!---
 Thechamprk/Thechamprk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
