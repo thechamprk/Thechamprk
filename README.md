@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rounak but you can call me Ronnie.
-- 👀 I’m interested to be a good Cyber Security Analyst.
+- 👀 I want to be a good Cyber Security Analyst.
 - 🌱 I’m currently learning the Basics of Programming and Hacking.
 - 💞️ I’m looking to collaborate someday.
-- 📫 How to reach me by instagram @thechamprk or mail me at projects.rounak@gmail.com
+- 📫 How to reach me? by instagram @thechamprk or mail me at projects.rounak@gmail.com
 - 😄 Pronouns: CHAMP
 - ⚡ Fun fact: I'M KIND OF LAZY... :)
 
